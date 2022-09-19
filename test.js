@@ -1,5 +1,6 @@
 const swapi = require("./index.js");
 
+const swapitest = new swapi()
 /***** Testing Starts Here *****/
 
 /** Get/Generate RegID **/
